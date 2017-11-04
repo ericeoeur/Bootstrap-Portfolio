@@ -1,0 +1,69 @@
+body {
+    margin-bottom: 80px; 
+    background-image: url(../images/pattern.png);
+    font-family: 'Georgia', Times, Times New Roman, serif; 
+
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    background-color: #4AAAA5;
+    color: white;
+}
+
+.page-header {
+    margin-top: 0; 
+    padding-bottom: 0px; 
+}
+
+.panel-body {
+    padding-top: 0; 
+}
+
+.featureImg {
+    margin-bottom: 10px; 
+
+
+}
+
+.list-group-item {
+    margin-bottom: 50px; 
+
+
+}
+
+.img-rounded{
+    margin-top: 0; 
+}
+
+.portfolio-item {
+
+    position: relative; 
+}
+
+.portfolio{
+    padding: 10px; 
+    width: 100%; 
+
+
+}
+
+.caption{
+    position: absolute;
+    top: 97%;
+    width: 89%;
+    background-color: #4AAAA5;
+    opacity: 0.9; 
+    margin-top: -90px;
+    text-align-last: center;
+    padding: 10px;
+    margin-left: 2%;
+    margin-right: 2%;
+    color: white; 
+   
+}
+
+.fix{
+    width: 100%;
+    padding: 0px;
+}
+
